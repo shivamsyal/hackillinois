@@ -1,0 +1,16 @@
+{
+  "name" : "Picturebook",
+  "version" : "1.0",
+  "description" : "Picturebook is an intuative visual learning tool, integrated within a real-time virtual classroom, for young children in ESL programs.",
+  "permissions": [
+
+  ],
+  "browser_action": {
+     "default_popup": "popup.html"
+  },
+  "icons": {
+      "48": "logo48.png",
+      "128": "logo128.png"
+    },
+  "manifest_version": 2
+}
