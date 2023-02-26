@@ -146,7 +146,7 @@ opacity:.6;
 .langs{
   float:left;
   display: inline-block;
-  margin-top: 70px;
+  margin-top: 85px;
   margin-left: 215px;
   z-index: 900;
   position: relative;
@@ -154,7 +154,7 @@ opacity:.6;
 #title2{
   float:left;
   display: inline-block;
-  margin-top: 40px;
+  margin-top: 55px;
   color:#5F6368;
   font-weight: 900;
   font-family:Montserrat,Arial;
@@ -162,6 +162,13 @@ opacity:.6;
   margin-left: 215px;
   z-index: 900;
   position: absolute;
+}
+#titlexyz {
+  color:#5F6368;
+  font-weight: 900;
+  font-family:Montserrat,Arial;
+  font-size: 15px;
+  margin-bottom: 3px;
 }
 #settingFlash{
   float:right;

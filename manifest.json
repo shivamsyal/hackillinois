@@ -1,7 +1,7 @@
 {
-  "name" : "Picturebook",
+  "name" : "Easyle",
   "version" : "1.0",
-  "description" : "Picturebook is an intuative visual learning tool, integrated within a real-time virtual classroom, for young children in ESL programs.",
+  "description" : "Easyle is an intuative visual learning tool, integrated within a real-time virtual classroom, for young children in ESL programs.",
   "permissions": [
 
   ],
@@ -9,8 +9,8 @@
      "default_popup": "popup.html"
   },
   "icons": {
-      "48": "logo48.png",
-      "128": "logo128.png"
+      "48": "EasyleLogo48.png",
+      "128": "EasyleLogo128.png"
     },
   "manifest_version": 2
 }
